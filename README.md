@@ -82,7 +82,7 @@ Populate trims only if frequency sweep indicates the resonance sits above 44 kHz
 
 ---
 
-## Bring-up checklist
+## Bring-up 
 
 * Visual and continuity: confirm D4 orientation; exposed pads of LT8362 and both LTC4444s are tied to GND
 * Power drivers only: apply VDRV\_12V; verify low quiescent current and no heating
