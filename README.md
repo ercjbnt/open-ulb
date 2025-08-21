@@ -1,4 +1,7 @@
 # open-ulb
+
+THIS PROJECT IS A WORK IN PROGRESS! Complete assembly ready files with be uploaded pending my revision of traces.
+
 An open source underwater locator beacon
 
 This is designed to work with the 44kHz piezos sold at JLI electronics:
