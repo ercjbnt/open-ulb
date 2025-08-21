@@ -1,6 +1,11 @@
 # open-ulb
 An open source underwater locator beacon
 
+This is designed to work with the 44kHz piezos sold at JLI electronics:
+https://www.jlielectronics.com/diy-accessories/jli-pz001/
+
+
+
 # TX\_Main — 44 kHz Ultrasonic Transmitter PCB
 
 
